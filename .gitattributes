@@ -1,0 +1,6 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb	merge=jupyternotebook
+=======
+>>>>>>> abdallah-branch
